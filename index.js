@@ -7,6 +7,5 @@ const out=document.getElementById(`out`);
 out.textContent= "username: "+username +"\t"+ "password: "+password;
 
 for(let i=0; i<5; i++){
-    out.textContent= "hello";
-    console.log("hello");
+    out.textContent= "hello world";
 }
